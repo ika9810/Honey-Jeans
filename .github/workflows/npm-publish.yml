@@ -1,8 +1,6 @@
 name: Auto Generate Honey Jeans (Daliy)
 
-on:
-  schedule:
-    - cron: '*/10 * * * *'
+on: push
 
 jobs:
   build:

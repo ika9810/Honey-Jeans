@@ -97,6 +97,7 @@ const addRarity = () => {
     }
   });
 
+  
   console.log(newRgb);
   console.log(rarity);
 

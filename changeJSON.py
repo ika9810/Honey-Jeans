@@ -46,5 +46,6 @@ try:
         shutil.copy2("./build/json/1.json", path_dir + timeformat + "/1.json")    
 except:
     print("Failed")
+    
 #reference
 #https://abluesnake.tistory.com/107

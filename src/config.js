@@ -37,6 +37,7 @@ const layerConfigurations = [
       { name: "Left" },
       { name: "Mouth" },
       { name: "TShirt" },
+      { name: "Watermark" },
     ],
   },
 ];

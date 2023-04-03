@@ -1,53 +1,59 @@
 {
-    "name": "HoneyJeans #1",
-    "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
-    "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "cb5349fa4f461dc40ef4f17eb55be1ccba2874ac",
-    "date": 1680483663618,
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Suzume"
-        },
-        {
-            "trait_type": "Skin",
-            "value": "Tokki"
-        },
-        {
-            "trait_type": "Shoes",
-            "value": "sneakers"
-        },
-        {
-            "trait_type": "Hair",
-            "value": "TokyoTattoo"
-        },
-        {
-            "trait_type": "Ears",
-            "value": "none"
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "darkCircles"
-        },
-        {
-            "trait_type": "Right",
-            "value": "ShiningNeko"
-        },
-        {
-            "trait_type": "Acc",
-            "value": "none"
-        },
-        {
-            "trait_type": "Left",
-            "value": "watch"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "cookie"
-        },
-        {
-            "trait_type": "TShirt",
-            "value": "Danhocats"
-        }
-    ]
+  "name": "HoneyJeans #1",
+  "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
+  "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
+  "dna": "9ae86120cea057c7593abd0b8c8d953d5fe0b053",
+  "edition": 1,
+  "date": 1680498639663,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "TokyoGang"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Tokki"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "sneakers"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "hairband"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "airpot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "darkCircles"
+    },
+    {
+      "trait_type": "Right",
+      "value": "ShiningTicket"
+    },
+    {
+      "trait_type": "Acc",
+      "value": "laptop"
+    },
+    {
+      "trait_type": "Left",
+      "value": "watch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "cookie"
+    },
+    {
+      "trait_type": "TShirt",
+      "value": "Danhocats"
+    },
+    {
+      "trait_type": "Watermark",
+      "value": "watermark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
 }

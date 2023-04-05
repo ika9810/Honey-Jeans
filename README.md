@@ -45,6 +45,7 @@
 
 ### 🐰Daily HoneyJeans🐰
 ******
+> ⏰ HoneyJeans Daily Meme is updated every 6 hours! 🔄
 <p align="center">
   <a href="https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/build/images/1.png">
     <img alt="HoneyJeans" title="HoneyJeans" src="https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/build/images/1.png" width="450">

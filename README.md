@@ -43,6 +43,13 @@
   <a href="https://honeyjeans.honeyvuitton.com/"><img src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white&link=https://www.instagram.com/honeyjeans_daily/"/></a>&nbsp
 </p>
 
+### 🐰Daily HoneyJeans🐰
+******
+<p align="center">
+  <a href="https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/build/images/1.png">
+    <img alt="HoneyJeans" title="HoneyJeans" src="https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/build/images/1.png" width="450">
+  </a>
+</p>
 ### Flow
 ******
 <p align="center">

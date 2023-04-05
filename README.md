@@ -42,6 +42,7 @@
   <a href="https://www.instagram.com/honeyjeans_daily/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
   <a href="https://honeyjeans.honeyvuitton.com/"><img src="	https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white&link=https://honeyjeans.honeyvuitton.com/"/></a>&nbsp
 </p>
+******
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fika9810%2FHoney-Jeans&count_bg=%23FFC8C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
 이 Repo에 있는 에셋들 및 이를 통해 생성되는 모든 파일들은 상업적으로 이용이 불가합니다. <br>

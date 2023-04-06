@@ -3,13 +3,13 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "56acc7f18cd1446d787590bd8b0126f21513f7f3",
+    "dna": "b2281740d153ab76e6c5384a5ddb4260bfd4d71d",
     "edition": 1,
-    "date": 1680783824398,
+    "date": 1680804908237,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Legends"
+        "value": "WeatheringWithYou"
       },
       {
         "trait_type": "Skin",
@@ -17,11 +17,11 @@
       },
       {
         "trait_type": "Shoes",
-        "value": "slippers"
+        "value": "sneakers"
       },
       {
         "trait_type": "Hair",
-        "value": "hardHat"
+        "value": "TokyoTattoo"
       },
       {
         "trait_type": "Ears",
@@ -29,11 +29,11 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "glasses"
+        "value": "darkCircles"
       },
       {
         "trait_type": "Right",
-        "value": "ipad"
+        "value": "ShiningTicket"
       },
       {
         "trait_type": "Acc",
@@ -41,15 +41,15 @@
       },
       {
         "trait_type": "Left",
-        "value": "watch"
+        "value": "YugiohHand"
       },
       {
         "trait_type": "Mouth",
-        "value": "cookie"
+        "value": "toast"
       },
       {
         "trait_type": "TShirt",
-        "value": "Benz&Moncler"
+        "value": "LegendsSpeeches"
       },
       {
         "trait_type": "Watermark",

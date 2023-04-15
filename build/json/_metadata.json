@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "334bf8b75f2c0676a66ef33fe80bffe2c3071f72",
+    "dna": "e026dbd45ba249ea0a955129581e9af0024c4234",
     "edition": 1,
-    "date": 1681520639865,
+    "date": 1681539320298,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Suzume"
+        "value": "BenzXMoncler"
       },
       {
         "trait_type": "Skin",
-        "value": "yellow"
+        "value": "Sneakers"
       },
       {
         "trait_type": "Shoes",
@@ -21,35 +21,35 @@
       },
       {
         "trait_type": "Hair",
-        "value": "ballCap"
+        "value": "TokyoTattoo"
       },
       {
         "trait_type": "Ears",
-        "value": "headphones"
+        "value": "none"
       },
       {
         "trait_type": "Eyes",
-        "value": "Sunglasses"
+        "value": "darkCircles"
       },
       {
         "trait_type": "Right",
-        "value": "Tory"
+        "value": "BaseballGlove"
       },
       {
         "trait_type": "Acc",
-        "value": "basketball"
+        "value": "IBM Laptop"
       },
       {
         "trait_type": "Left",
-        "value": "ppassyungi"
+        "value": "YugiohHand"
       },
       {
         "trait_type": "Mouth",
-        "value": "toast"
+        "value": "cookie"
       },
       {
         "trait_type": "TShirt",
-        "value": "Benz&Moncler"
+        "value": "NewMcDonalds"
       },
       {
         "trait_type": "Watermark",

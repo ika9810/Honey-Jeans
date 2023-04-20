@@ -1,7 +1,7 @@
 <h1 align="center"> HoneyJeans </h1> <br>
 <p align="center">
   <a href="https://www.instagram.com/honeyjeans_daily/">
-    <img alt="GitPoint" title="GitPoint" src="https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/Banner/HoneyJeansBanner.png">
+    <img alt="GitPoint" title="GitPoint" src="https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/Banner/HoneyJeansBanner_New.png">
   </a>
 </p>
 

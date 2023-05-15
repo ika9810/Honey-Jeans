@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "f3edd91c8def59310c7bfe9b3bfc24131b5eb9bc",
+    "dna": "3b0a2bf1ea0356e28969a9000f58bc1c80d6af69",
     "edition": 1,
-    "date": 1684112109227,
+    "date": 1684138391567,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "IBM_Light"
+        "value": "QuizCastle"
       },
       {
         "trait_type": "Skin",
-        "value": "Slippers"
+        "value": "yellow"
       },
       {
         "trait_type": "Shoes",
@@ -21,7 +21,7 @@
       },
       {
         "trait_type": "Hair",
-        "value": "ballCap"
+        "value": "hair"
       },
       {
         "trait_type": "Ears",
@@ -29,27 +29,27 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "glasses"
-      },
-      {
-        "trait_type": "Right",
-        "value": "ShiningTicket"
-      },
-      {
-        "trait_type": "Acc",
-        "value": "laptop"
-      },
-      {
-        "trait_type": "Left",
-        "value": "Burger"
-      },
-      {
-        "trait_type": "Mouth",
         "value": "none"
       },
       {
+        "trait_type": "Right",
+        "value": "ipad3"
+      },
+      {
+        "trait_type": "Acc",
+        "value": "Macbook"
+      },
+      {
+        "trait_type": "Left",
+        "value": "rolex"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "cookie"
+      },
+      {
         "trait_type": "TShirt",
-        "value": "kitsune"
+        "value": "Danhocats"
       },
       {
         "trait_type": "Watermark",

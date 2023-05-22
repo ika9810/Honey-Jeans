@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "8ee1eed89f329e60624ed7bb2c0aae7858e632d0",
+    "dna": "8c912d60fe97e3190ec7b4c9e7327a10df419956",
     "edition": 1,
-    "date": 1684716883280,
+    "date": 1684743243423,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "WeatheringWithYou"
+        "value": "Korea"
       },
       {
         "trait_type": "Skin",
-        "value": "yellow"
+        "value": "Sneakers"
       },
       {
         "trait_type": "Shoes",
@@ -21,35 +21,35 @@
       },
       {
         "trait_type": "Hair",
-        "value": "hardHat"
-      },
-      {
-        "trait_type": "Ears",
-        "value": "airpodMax"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "goggles"
-      },
-      {
-        "trait_type": "Right",
-        "value": "Coke"
-      },
-      {
-        "trait_type": "Acc",
-        "value": "TokyoGang"
-      },
-      {
-        "trait_type": "Left",
-        "value": "ppassyungi"
-      },
-      {
-        "trait_type": "Mouth",
         "value": "none"
       },
       {
+        "trait_type": "Ears",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Right",
+        "value": "yugioh"
+      },
+      {
+        "trait_type": "Acc",
+        "value": "IBM Laptop"
+      },
+      {
+        "trait_type": "Left",
+        "value": "Moncler"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "toast"
+      },
+      {
         "trait_type": "TShirt",
-        "value": "IBM"
+        "value": "paAh"
       },
       {
         "trait_type": "Watermark",

@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "b5e3c00c7f3533daee855966c70443eb5e40a2f4",
+    "dna": "d50fc32a3b20b07bf78b74118259be73d0da31d6",
     "edition": 1,
-    "date": 1684975932076,
+    "date": 1685002403729,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "kitsch"
+        "value": "QuizCastle"
       },
       {
         "trait_type": "Skin",
-        "value": "Sneakers"
+        "value": "Slippers"
       },
       {
         "trait_type": "Shoes",
@@ -21,35 +21,35 @@
       },
       {
         "trait_type": "Hair",
-        "value": "hairband"
-      },
-      {
-        "trait_type": "Ears",
-        "value": "airpodMax"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Sunglasses"
-      },
-      {
-        "trait_type": "Right",
-        "value": "ipad2"
-      },
-      {
-        "trait_type": "Acc",
-        "value": "TokyoGang"
-      },
-      {
-        "trait_type": "Left",
-        "value": "rolex"
-      },
-      {
-        "trait_type": "Mouth",
         "value": "none"
       },
       {
+        "trait_type": "Ears",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "goggles"
+      },
+      {
+        "trait_type": "Right",
+        "value": "BaseballGlove"
+      },
+      {
+        "trait_type": "Acc",
+        "value": "none"
+      },
+      {
+        "trait_type": "Left",
+        "value": "ShiningNeko"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "cookie"
+      },
+      {
         "trait_type": "TShirt",
-        "value": "paAh"
+        "value": "Danhocats"
       },
       {
         "trait_type": "Watermark",

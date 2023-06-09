@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "ab2e96eb849613d44b4a0f6b48186c9bf06068fa",
+    "dna": "ec2d4f471340e07bcc4dc3686e039e1c9230383e",
     "edition": 1,
-    "date": 1686298327102,
+    "date": 1686327143749,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "WeatheringWithYou"
+        "value": "kitsch"
       },
       {
         "trait_type": "Skin",
-        "value": "yellow"
+        "value": "Sneakers"
       },
       {
         "trait_type": "Shoes",
@@ -21,19 +21,19 @@
       },
       {
         "trait_type": "Hair",
-        "value": "TokyoTattoo"
+        "value": "jokduri"
       },
       {
         "trait_type": "Ears",
-        "value": "headphones"
+        "value": "airpodMax"
       },
       {
         "trait_type": "Eyes",
-        "value": "goggles"
+        "value": "none"
       },
       {
         "trait_type": "Right",
-        "value": "ipad1"
+        "value": "ShiningNeko"
       },
       {
         "trait_type": "Acc",
@@ -41,15 +41,15 @@
       },
       {
         "trait_type": "Left",
-        "value": "ppassyungi"
+        "value": "rolex"
       },
       {
         "trait_type": "Mouth",
-        "value": "carrot"
+        "value": "cookie"
       },
       {
         "trait_type": "TShirt",
-        "value": "Metatory"
+        "value": "NewMcDonalds"
       },
       {
         "trait_type": "Watermark",

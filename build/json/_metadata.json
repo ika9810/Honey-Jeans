@@ -3,9 +3,9 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "14c8bd9ae6eacedf4ee82a1e42c3c1ea48fb038f",
+    "dna": "b3f307e93c7548031244f4b484dcb5e017da5ac9",
     "edition": 1,
-    "date": 1686790636942,
+    "date": 1686816764385,
     "attributes": [
       {
         "trait_type": "Background",
@@ -13,7 +13,7 @@
       },
       {
         "trait_type": "Skin",
-        "value": "yellow"
+        "value": "Slippers"
       },
       {
         "trait_type": "Shoes",
@@ -21,35 +21,35 @@
       },
       {
         "trait_type": "Hair",
-        "value": "hairband"
+        "value": "jokduri"
       },
       {
         "trait_type": "Ears",
-        "value": "headphones"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "darkCircles"
-      },
-      {
-        "trait_type": "Right",
-        "value": "BoxingGloves"
-      },
-      {
-        "trait_type": "Acc",
-        "value": "Card"
-      },
-      {
-        "trait_type": "Left",
-        "value": "Burger"
-      },
-      {
-        "trait_type": "Mouth",
         "value": "none"
       },
       {
+        "trait_type": "Eyes",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Right",
+        "value": "Tory"
+      },
+      {
+        "trait_type": "Acc",
+        "value": "basketball"
+      },
+      {
+        "trait_type": "Left",
+        "value": "YugiohHand"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "cookie"
+      },
+      {
         "trait_type": "TShirt",
-        "value": "TokyoGang"
+        "value": "paAh"
       },
       {
         "trait_type": "Watermark",

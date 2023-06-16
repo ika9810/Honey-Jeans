@@ -3,13 +3,13 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "8203246980a9710e429d3b9ac1f6b2a56141669f",
+    "dna": "8648e1d67c7339c2a8ec94e74c6cc43ac75fe315",
     "edition": 1,
-    "date": 1686877085945,
+    "date": 1686903187781,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "apple"
+        "value": "QuizCastle"
       },
       {
         "trait_type": "Skin",
@@ -21,35 +21,35 @@
       },
       {
         "trait_type": "Hair",
-        "value": "hair"
-      },
-      {
-        "trait_type": "Ears",
-        "value": "airpodMax"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "goggles"
-      },
-      {
-        "trait_type": "Right",
-        "value": "ipad6"
-      },
-      {
-        "trait_type": "Acc",
         "value": "none"
       },
       {
+        "trait_type": "Ears",
+        "value": "none"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "glasses"
+      },
+      {
+        "trait_type": "Right",
+        "value": "ipad5"
+      },
+      {
+        "trait_type": "Acc",
+        "value": "laptop"
+      },
+      {
         "trait_type": "Left",
-        "value": "watch"
+        "value": "ppassyungi"
       },
       {
         "trait_type": "Mouth",
-        "value": "toast"
+        "value": "carrot"
       },
       {
         "trait_type": "TShirt",
-        "value": "kitsune"
+        "value": "IBM"
       },
       {
         "trait_type": "Watermark",

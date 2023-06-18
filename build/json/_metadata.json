@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "fe1ab157f33db32d235ecb91e1c69dba687a0204",
+    "dna": "041ea8156ac8ad409e5ea4b5575d181d0908d997",
     "edition": 1,
-    "date": 1687018312509,
+    "date": 1687050192603,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "BenzXMoncler"
+        "value": "kiminonawa"
       },
       {
         "trait_type": "Skin",
-        "value": "yellow"
+        "value": "Slippers"
       },
       {
         "trait_type": "Shoes",
@@ -21,19 +21,19 @@
       },
       {
         "trait_type": "Hair",
-        "value": "hairband"
+        "value": "ballCap"
       },
       {
         "trait_type": "Ears",
-        "value": "airpot"
+        "value": "headphones"
       },
       {
         "trait_type": "Eyes",
-        "value": "Sunglasses"
+        "value": "darkCircles"
       },
       {
         "trait_type": "Right",
-        "value": "ShiningTicket"
+        "value": "BaseballGlove"
       },
       {
         "trait_type": "Acc",
@@ -41,15 +41,15 @@
       },
       {
         "trait_type": "Left",
-        "value": "ppassyungi"
+        "value": "YugiohHand"
       },
       {
         "trait_type": "Mouth",
-        "value": "none"
+        "value": "carrot"
       },
       {
         "trait_type": "TShirt",
-        "value": "LegendsSpeeches"
+        "value": "Danhocats"
       },
       {
         "trait_type": "Watermark",

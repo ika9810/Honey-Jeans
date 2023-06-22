@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "744d1bf94f4d2862083796ea9a538ca8236abd90",
+    "dna": "f1ff86535ba605026f528a066e66400b27fcf943",
     "edition": 1,
-    "date": 1687363963296,
+    "date": 1687395519624,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "WeatheringWithYou"
+        "value": "IBM_Dark"
       },
       {
         "trait_type": "Skin",
-        "value": "Sneakers"
+        "value": "Slippers"
       },
       {
         "trait_type": "Shoes",
@@ -21,7 +21,7 @@
       },
       {
         "trait_type": "Hair",
-        "value": "jokduri"
+        "value": "none"
       },
       {
         "trait_type": "Ears",
@@ -29,27 +29,27 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "goggles"
+        "value": "darkCircles"
       },
       {
         "trait_type": "Right",
-        "value": "coffee"
+        "value": "ipad6"
       },
       {
         "trait_type": "Acc",
-        "value": "IBM Laptop"
+        "value": "laptop"
       },
       {
         "trait_type": "Left",
-        "value": "Moncler"
+        "value": "rolex"
       },
       {
         "trait_type": "Mouth",
-        "value": "toast"
+        "value": "carrot"
       },
       {
         "trait_type": "TShirt",
-        "value": "NewMcDonalds"
+        "value": "IBM"
       },
       {
         "trait_type": "Watermark",

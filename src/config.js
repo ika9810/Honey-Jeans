@@ -33,11 +33,11 @@ const layerConfigurations = [
       { name: "Ears" },
       { name: "Eyes" },
       { name: "Right" },
-      { name: "Acc" },
       { name: "Left" },
       { name: "Mouth" },
       { name: "TShirt" },
       { name: "Watermark" },
+      { name: "Acc" },
     ],
   },
 ];

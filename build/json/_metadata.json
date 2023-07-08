@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "618d53d2497819488ef6d427fb3d79f279187869",
+    "dna": "323209dd897c1042c4a3fd18ce5d53d3526750b6",
     "edition": 1,
-    "date": 1688804004599,
+    "date": 1688832804082,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "QuizCastle"
+        "value": "Legends"
       },
       {
         "trait_type": "Skin",
-        "value": "yellow"
+        "value": "Slippers"
       },
       {
         "trait_type": "Shoes",
@@ -21,11 +21,11 @@
       },
       {
         "trait_type": "Hair",
-        "value": "ballCap"
+        "value": "none"
       },
       {
         "trait_type": "Ears",
-        "value": "airpot"
+        "value": "headphones"
       },
       {
         "trait_type": "Eyes",
@@ -33,15 +33,15 @@
       },
       {
         "trait_type": "Right",
-        "value": "ipad1"
+        "value": "ShiningTicket"
       },
       {
         "trait_type": "Left",
-        "value": "Moncler"
+        "value": "YugiohHand"
       },
       {
         "trait_type": "Mouth",
-        "value": "cookie"
+        "value": "toast"
       },
       {
         "trait_type": "TShirt",
@@ -53,7 +53,7 @@
       },
       {
         "trait_type": "Acc",
-        "value": "none"
+        "value": "IBM Laptop"
       }
     ],
     "compiler": "HashLips Art Engine"

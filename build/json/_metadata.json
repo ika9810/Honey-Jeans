@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "31021465ddeccf6b941362d3ecc7c47abfeddb30",
+    "dna": "d58f8b2e6a22671c2a4bdae341f259d621f5ac26",
     "edition": 1,
-    "date": 1692146581039,
+    "date": 1692173610268,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "OshinoKo"
+        "value": "Legends"
       },
       {
         "trait_type": "Skin",
-        "value": "Slippers"
+        "value": "yellow"
       },
       {
         "trait_type": "Shoes",
@@ -21,23 +21,23 @@
       },
       {
         "trait_type": "Hair",
-        "value": "none"
+        "value": "TokyoTattoo"
       },
       {
         "trait_type": "Ears",
-        "value": "none"
+        "value": "airpodMax"
       },
       {
         "trait_type": "Eyes",
-        "value": "Sunglasses"
+        "value": "oshieyes"
       },
       {
         "trait_type": "Right",
-        "value": "ipad"
+        "value": "ShiningNeko"
       },
       {
         "trait_type": "Left",
-        "value": "ShiningNeko"
+        "value": "YugiohHand"
       },
       {
         "trait_type": "Mouth",
@@ -45,7 +45,7 @@
       },
       {
         "trait_type": "TShirt",
-        "value": "Danhocats"
+        "value": "NewMcDonalds"
       },
       {
         "trait_type": "Watermark",
@@ -53,7 +53,7 @@
       },
       {
         "trait_type": "Acc",
-        "value": "IBM Laptop"
+        "value": "laptop"
       }
     ],
     "compiler": "HashLips Art Engine"

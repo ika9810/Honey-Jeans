@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "7981ea6d4cc72a0b8c78ead6c3a851b8bfd5e28e",
+    "dna": "63675fe200533f4e9135aeea64262e774c87c70b",
     "edition": 1,
-    "date": 1692691955793,
+    "date": 1692720739113,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Metatory"
+        "value": "BenzXMoncler"
       },
       {
         "trait_type": "Skin",
-        "value": "Sneakers"
+        "value": "yellow"
       },
       {
         "trait_type": "Shoes",
@@ -21,31 +21,31 @@
       },
       {
         "trait_type": "Hair",
-        "value": "none"
+        "value": "jokduri"
       },
       {
         "trait_type": "Ears",
-        "value": "airpot"
+        "value": "headphones"
       },
       {
         "trait_type": "Eyes",
-        "value": "glasses"
+        "value": "goggles"
       },
       {
         "trait_type": "Right",
-        "value": "Coke"
+        "value": "ipad3"
       },
       {
         "trait_type": "Left",
-        "value": "rolex"
+        "value": "watch"
       },
       {
         "trait_type": "Mouth",
-        "value": "none"
+        "value": "carrot"
       },
       {
         "trait_type": "TShirt",
-        "value": "Benz&Moncler"
+        "value": "NewMcDonalds"
       },
       {
         "trait_type": "Watermark",
@@ -53,7 +53,7 @@
       },
       {
         "trait_type": "Acc",
-        "value": "none"
+        "value": "basketball"
       }
     ],
     "compiler": "HashLips Art Engine"

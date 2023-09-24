@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "261531e7c5c4455e08cb44172f5026b8044425e1",
+    "dna": "364aee1ec4e02b7726bff09d0302ec79fb6f7b61",
     "edition": 1,
-    "date": 1695485524072,
+    "date": 1695516429769,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Suzume"
+        "value": "apple"
       },
       {
         "trait_type": "Skin",
-        "value": "Sneakers"
+        "value": "yellow"
       },
       {
         "trait_type": "Shoes",
@@ -21,7 +21,7 @@
       },
       {
         "trait_type": "Hair",
-        "value": "hairband"
+        "value": "TokyoTattoo"
       },
       {
         "trait_type": "Ears",
@@ -29,11 +29,11 @@
       },
       {
         "trait_type": "Eyes",
-        "value": "glasses"
+        "value": "oshieyes"
       },
       {
         "trait_type": "Right",
-        "value": "coffee"
+        "value": "ipad4"
       },
       {
         "trait_type": "Left",
@@ -41,11 +41,11 @@
       },
       {
         "trait_type": "Mouth",
-        "value": "none"
+        "value": "cookie"
       },
       {
         "trait_type": "TShirt",
-        "value": "NewMcDonalds"
+        "value": "LegendsSpeeches"
       },
       {
         "trait_type": "Watermark",

@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "457d52d5d74e6c97a08a281f786e87aa22f97ae3",
+    "dna": "4efe90fac8737e6876b09706e67fb6f9786c3e94",
     "edition": 1,
-    "date": 1701101725335,
+    "date": 1701132547501,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "QuizCastle"
+        "value": "kiminonawa"
       },
       {
         "trait_type": "Skin",
-        "value": "Slippers"
+        "value": "yellow"
       },
       {
         "trait_type": "Shoes",
@@ -21,31 +21,31 @@
       },
       {
         "trait_type": "Hair",
-        "value": "jokduri"
+        "value": "hardHat"
       },
       {
         "trait_type": "Ears",
-        "value": "headphones"
+        "value": "none"
       },
       {
         "trait_type": "Eyes",
-        "value": "oshieyes"
+        "value": "Sunglasses"
       },
       {
         "trait_type": "Right",
-        "value": "ShiningTicket"
+        "value": "BoxingGloves"
       },
       {
         "trait_type": "Left",
-        "value": "Moncler"
+        "value": "rolex"
       },
       {
         "trait_type": "Mouth",
-        "value": "cookie"
+        "value": "none"
       },
       {
         "trait_type": "TShirt",
-        "value": "paAh"
+        "value": "Benz&Moncler"
       },
       {
         "trait_type": "Watermark",
@@ -53,7 +53,7 @@
       },
       {
         "trait_type": "Acc",
-        "value": "basketball"
+        "value": "Card"
       }
     ],
     "compiler": "HashLips Art Engine"

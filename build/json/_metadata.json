@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "949e5739cd7658fbf14271aa08d2ee9289fa2fe9",
+    "dna": "5f03f6c9cff520d1d6e80e937807812a74a447aa",
     "edition": 1,
-    "date": 1711008980579,
+    "date": 1711037876789,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "OshinoKo"
+        "value": "Legends"
       },
       {
         "trait_type": "Skin",
-        "value": "Slippers"
+        "value": "Sneakers"
       },
       {
         "trait_type": "Shoes",
@@ -21,31 +21,31 @@
       },
       {
         "trait_type": "Hair",
-        "value": "hair"
+        "value": "TokyoTattoo"
       },
       {
         "trait_type": "Ears",
-        "value": "airpot"
+        "value": "airpodMax"
       },
       {
         "trait_type": "Eyes",
-        "value": "oshieyes"
+        "value": "glasses"
       },
       {
         "trait_type": "Right",
-        "value": "ShiningTicket"
+        "value": "BoxingGloves"
       },
       {
         "trait_type": "Left",
-        "value": "ppassyungi"
+        "value": "watch"
       },
       {
         "trait_type": "Mouth",
-        "value": "carrot"
+        "value": "cookie"
       },
       {
         "trait_type": "TShirt",
-        "value": "Danhocats"
+        "value": "IBM"
       },
       {
         "trait_type": "Watermark",

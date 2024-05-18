@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "31ad6af9091960e1a3e967c693896d4e42b083c9",
+    "dna": "3d88a8017e88a17ce22999023680f44898497795",
     "edition": 1,
-    "date": 1715937441811,
+    "date": 1716023740554,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Suzume"
+        "value": "IBM_Light"
       },
       {
         "trait_type": "Skin",
-        "value": "yellow"
+        "value": "Sneakers"
       },
       {
         "trait_type": "Shoes",
@@ -25,27 +25,27 @@
       },
       {
         "trait_type": "Ears",
-        "value": "airpodMax"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "oshieyes"
-      },
-      {
-        "trait_type": "Right",
-        "value": "ShiningNeko"
-      },
-      {
-        "trait_type": "Left",
-        "value": "YugiohHand"
-      },
-      {
-        "trait_type": "Mouth",
         "value": "none"
       },
       {
+        "trait_type": "Eyes",
+        "value": "goggles"
+      },
+      {
+        "trait_type": "Right",
+        "value": "Coke"
+      },
+      {
+        "trait_type": "Left",
+        "value": "Burger"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "cookie"
+      },
+      {
         "trait_type": "TShirt",
-        "value": "paAh"
+        "value": "kitsune"
       },
       {
         "trait_type": "Watermark",
@@ -53,7 +53,7 @@
       },
       {
         "trait_type": "Acc",
-        "value": "laptop"
+        "value": "none"
       }
     ],
     "compiler": "HashLips Art Engine"

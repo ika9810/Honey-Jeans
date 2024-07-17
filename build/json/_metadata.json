@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "0f82e6590650d3662c3739df0a5b9ec13e9b7a42",
+    "dna": "272c6500c32c61262f29e2603eb922e53c12e830",
     "edition": 1,
-    "date": 1721121514331,
+    "date": 1721207978663,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "yamazaki"
+        "value": "apple"
       },
       {
         "trait_type": "Skin",
-        "value": "Slippers"
+        "value": "yellow"
       },
       {
         "trait_type": "Shoes",
@@ -21,31 +21,31 @@
       },
       {
         "trait_type": "Hair",
-        "value": "jokduri"
-      },
-      {
-        "trait_type": "Ears",
-        "value": "headphones"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "glasses"
-      },
-      {
-        "trait_type": "Right",
-        "value": "Coke"
-      },
-      {
-        "trait_type": "Left",
-        "value": "YugiohHand"
-      },
-      {
-        "trait_type": "Mouth",
         "value": "none"
       },
       {
+        "trait_type": "Ears",
+        "value": "airpot"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "goggles"
+      },
+      {
+        "trait_type": "Right",
+        "value": "ipad2"
+      },
+      {
+        "trait_type": "Left",
+        "value": "100years"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "carrot"
+      },
+      {
         "trait_type": "TShirt",
-        "value": "musinsatech"
+        "value": "TokyoGang"
       },
       {
         "trait_type": "Watermark",

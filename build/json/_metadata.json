@@ -3,49 +3,49 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "84a9dfc7acd252476e3174b0e78ca8ea751088ce",
+    "dna": "49bbf8db20fcdf8e557527e5fd194903c8e82b2c",
     "edition": 1,
-    "date": 1725268797801,
+    "date": 1725355141000,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Metatory"
+        "value": "musinsa"
       },
       {
         "trait_type": "Skin",
-        "value": "Slippers"
+        "value": "yellow"
       },
       {
         "trait_type": "Shoes",
-        "value": "yamazakiShoes"
+        "value": "none"
       },
       {
         "trait_type": "Hair",
-        "value": "jokduri"
+        "value": "hardHat"
       },
       {
         "trait_type": "Ears",
-        "value": "airpot"
+        "value": "airpodMax"
       },
       {
         "trait_type": "Eyes",
-        "value": "none"
+        "value": "glasses"
       },
       {
         "trait_type": "Right",
-        "value": "yamazakiHighball"
+        "value": "Tory"
       },
       {
         "trait_type": "Left",
-        "value": "Burger"
+        "value": "100years"
       },
       {
         "trait_type": "Mouth",
-        "value": "none"
+        "value": "cookie"
       },
       {
         "trait_type": "TShirt",
-        "value": "Danhocats"
+        "value": "yamazakiChest"
       },
       {
         "trait_type": "Watermark",
@@ -53,7 +53,7 @@
       },
       {
         "trait_type": "Acc",
-        "value": "Macbook"
+        "value": "basketball"
       }
     ],
     "compiler": "HashLips Art Engine"

@@ -3,49 +3,49 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "119c5be6a46a39f193a3c3761f2bf3e012f02e46",
+    "dna": "df68adb75997a7f9d4c5c6c049825118f9795c47",
     "edition": 1,
-    "date": 1740129524122,
+    "date": 1740215865205,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "IBM_Dark"
+        "value": "musinsaterrace"
       },
       {
         "trait_type": "Skin",
-        "value": "Sneakers"
+        "value": "yellow"
       },
       {
         "trait_type": "Shoes",
-        "value": "yamazakiShoes"
-      },
-      {
-        "trait_type": "Hair",
-        "value": "ballCap"
-      },
-      {
-        "trait_type": "Ears",
         "value": "none"
       },
       {
+        "trait_type": "Hair",
+        "value": "hair"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "headphones"
+      },
+      {
         "trait_type": "Eyes",
-        "value": "glasses"
+        "value": "Sunglasses"
       },
       {
         "trait_type": "Right",
-        "value": "yugioh"
+        "value": "ipad2"
       },
       {
         "trait_type": "Left",
-        "value": "100years"
+        "value": "ppassyungi"
       },
       {
         "trait_type": "Mouth",
-        "value": "cookie"
+        "value": "carrot"
       },
       {
         "trait_type": "TShirt",
-        "value": "Danhocats"
+        "value": "1000wondoghoney"
       },
       {
         "trait_type": "Watermark",

@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "6f61f411f2f7a0177e585c5426ab74a2cf22fa63",
+    "dna": "bbc6aa303024b9514a2c9c73ebef715f6ee29265",
     "edition": 1,
-    "date": 1742030265605,
+    "date": 1742116637499,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Legends"
+        "value": "IBM_Dark"
       },
       {
         "trait_type": "Skin",
-        "value": "Sneakers"
+        "value": "Slippers"
       },
       {
         "trait_type": "Shoes",
@@ -21,31 +21,31 @@
       },
       {
         "trait_type": "Hair",
-        "value": "TokyoTattoo"
+        "value": "none"
       },
       {
         "trait_type": "Ears",
-        "value": "airpodMax"
+        "value": "none"
       },
       {
         "trait_type": "Eyes",
-        "value": "glasses"
+        "value": "none"
       },
       {
         "trait_type": "Right",
-        "value": "Tory"
+        "value": "ipad3"
       },
       {
         "trait_type": "Left",
-        "value": "ppassyungi"
+        "value": "watch"
       },
       {
         "trait_type": "Mouth",
-        "value": "toast"
+        "value": "carrot"
       },
       {
         "trait_type": "TShirt",
-        "value": "paAh"
+        "value": "Metatory"
       },
       {
         "trait_type": "Watermark",

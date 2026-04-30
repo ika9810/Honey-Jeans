@@ -3,21 +3,21 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "3b14a8d38d8786a58b19827e7b0e4378312359eb",
+    "dna": "c2e14840c30d05b81b781c13aaef9b7083db926d",
     "edition": 1,
-    "date": 1777460217471,
+    "date": 1777546606393,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "IBM_Dark"
+        "value": "yamazaki"
       },
       {
         "trait_type": "Skin",
-        "value": "yellow"
+        "value": "Sneakers"
       },
       {
         "trait_type": "Shoes",
-        "value": "none"
+        "value": "1000wonshoes"
       },
       {
         "trait_type": "Hair",
@@ -25,27 +25,27 @@
       },
       {
         "trait_type": "Ears",
-        "value": "airpot"
+        "value": "none"
       },
       {
         "trait_type": "Eyes",
-        "value": "oshieyes"
+        "value": "goggles"
       },
       {
         "trait_type": "Right",
-        "value": "Tory"
+        "value": "ShiningTicket"
       },
       {
         "trait_type": "Left",
-        "value": "ShiningNeko"
+        "value": "100years"
       },
       {
         "trait_type": "Mouth",
-        "value": "honey"
+        "value": "cookie"
       },
       {
         "trait_type": "TShirt",
-        "value": "Metatory"
+        "value": "1000wondoghoney"
       },
       {
         "trait_type": "Watermark",

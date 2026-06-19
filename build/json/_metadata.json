@@ -3,13 +3,13 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "b5cc0c986caf656861128da30ceea4f190d89497",
+    "dna": "74701b670c9ac0105f235f0f525c978821dd4d61",
     "edition": 1,
-    "date": 1781785650435,
+    "date": 1781873497471,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "OshinoKo"
+        "value": "apple"
       },
       {
         "trait_type": "Skin",
@@ -17,35 +17,35 @@
       },
       {
         "trait_type": "Shoes",
-        "value": "1000wonshoes"
+        "value": "none"
       },
       {
         "trait_type": "Hair",
-        "value": "TokyoTattoo"
+        "value": "hairband"
       },
       {
         "trait_type": "Ears",
-        "value": "none"
+        "value": "airpodMax"
       },
       {
         "trait_type": "Eyes",
-        "value": "none"
+        "value": "darkCircles"
       },
       {
         "trait_type": "Right",
-        "value": "Coke"
+        "value": "Tory"
       },
       {
         "trait_type": "Left",
-        "value": "Moncler"
+        "value": "rolex"
       },
       {
         "trait_type": "Mouth",
-        "value": "none"
+        "value": "toast"
       },
       {
         "trait_type": "TShirt",
-        "value": "kitsune"
+        "value": "LegendsSpeeches"
       },
       {
         "trait_type": "Watermark",
@@ -53,7 +53,7 @@
       },
       {
         "trait_type": "Acc",
-        "value": "IBM Laptop"
+        "value": "Macbook"
       }
     ],
     "compiler": "HashLips Art Engine"

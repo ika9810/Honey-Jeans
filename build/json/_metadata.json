@@ -3,17 +3,17 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "1f904cd91bbb2a6c7ef4e2b69205d354681b3358",
+    "dna": "2f511e1f19504934c2e408b7c951298f558e4e17",
     "edition": 1,
-    "date": 1785497452020,
+    "date": 1785580916507,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "IBM_Light"
+        "value": "apple"
       },
       {
         "trait_type": "Skin",
-        "value": "yellow"
+        "value": "Sneakers"
       },
       {
         "trait_type": "Shoes",
@@ -21,15 +21,15 @@
       },
       {
         "trait_type": "Hair",
-        "value": "hairband"
+        "value": "TokyoTattoo"
       },
       {
         "trait_type": "Ears",
-        "value": "airpot"
+        "value": "headphones"
       },
       {
         "trait_type": "Eyes",
-        "value": "glasses"
+        "value": "Sunglasses"
       },
       {
         "trait_type": "Right",
@@ -37,7 +37,7 @@
       },
       {
         "trait_type": "Left",
-        "value": "ppassyungi"
+        "value": "100years"
       },
       {
         "trait_type": "Mouth",
@@ -45,7 +45,7 @@
       },
       {
         "trait_type": "TShirt",
-        "value": "yamazakiChest"
+        "value": "LegendsSpeeches"
       },
       {
         "trait_type": "Watermark",
@@ -53,7 +53,7 @@
       },
       {
         "trait_type": "Acc",
-        "value": "TokyoGang"
+        "value": "none"
       }
     ],
     "compiler": "HashLips Art Engine"

@@ -2,12 +2,12 @@
     "name": "HoneyJeans #1",
     "description": "HoneyJeans is a collection of randomly generated and stylistically curated NFTs based on NewJeans Official Character, \"Tokki\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "6af4c0cfdc0da0af2cfc19329343c1154d90dcb6",
-    "date": 1791987803946,
+    "dna": "738da7fbf4cc4585e4193a952562973c5c497940",
+    "date": 1792072899308,
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "musinsa"
+            "value": "Suzume"
         },
         {
             "trait_type": "Skin",
@@ -15,35 +15,35 @@
         },
         {
             "trait_type": "Shoes",
-            "value": "none"
+            "value": "1000wonshoes"
         },
         {
             "trait_type": "Hair",
-            "value": "none"
+            "value": "ballCap"
         },
         {
             "trait_type": "Ears",
-            "value": "headphones"
+            "value": "none"
         },
         {
             "trait_type": "Eyes",
-            "value": "darkCircles"
+            "value": "oshieyes"
         },
         {
             "trait_type": "Right",
-            "value": "ipad3"
+            "value": "Hamburger"
         },
         {
             "trait_type": "Left",
-            "value": "watch"
+            "value": "rolex"
         },
         {
             "trait_type": "Mouth",
-            "value": "toast"
+            "value": "carrot"
         },
         {
             "trait_type": "TShirt",
-            "value": "kitsune"
+            "value": "musinsatech"
         },
         {
             "trait_type": "Watermark",
@@ -51,7 +51,7 @@
         },
         {
             "trait_type": "Acc",
-            "value": "basketball"
+            "value": "TokyoGang"
         }
     ]
 }
